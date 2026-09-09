@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Utkarsh Upadhyay
+# Utkarsh Upadhyay - Software Engineer
 
-> **Software Engineer | Backend Development | Performance Optimization**
+> **Backend Development | Performance Optimization | Agentic AI Design**
 
 I am a Software Engineer with about 2 years of experience designing scalable backend systems and maintaining robust production environments. I enjoy tackling complex performance bottlenecks and building infrastructure that scales. 
 
@@ -14,7 +14,7 @@ I am a Software Engineer with about 2 years of experience designing scalable bac
 ### 💻 Tech Stack & Tools
 
 * **Languages:** Python, C++, Bash, C, Java, Kotlin, R, SQL, JavaScript
-* **Frameworks/Libraries:** Flask, FastAPI, asyncio, mpi4py, MongoDB
+* **Frameworks/Libraries:** Flask, FastAPI, asyncio, mpi4py, MongoDB, Redis
 * **Infrastructure & Tooling:** Docker, Kubernetes, Git/GitHub, CI/CD, AWS, GCP, Azure, Linux, Observability Tools
 
 ### 📫 Let's Connect
